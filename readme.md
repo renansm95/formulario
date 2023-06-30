@@ -3,7 +3,7 @@
 <p align="center">
 Este é um formulário de cadastro para me ajudar na prática e no aprendizado da programação. 
 </p>
-<p align="center">Link do projeto: https://renansm95.github.io/projeto-imc/</p>
+<p align="center">Link do projeto: [https://renansm95.github.io/projeto-imc/](https://renansm95.github.io/formulario/)</p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;
