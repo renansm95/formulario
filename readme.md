@@ -21,13 +21,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS
 - JavaScript
 - Git e Github
-- Google fonts
+- Color Hunt
 
 ---
 
 ## Informações
 
-- O projeto apesar de simples, é bem interativo, pois se algum campo estiver vazio, se o usuário não for preenchido apenas com letras e/ou números, se o usuário não tiver no mínimo 3 caracteres e no máximo 12 e a senha precisa ter no mínimo 6 caracteres e no máximo 12, o formulário não é enviado.
+- O projeto apesar de simples, é bem interativo, pois se algum campo estiver vazio, se o usuário não for preenchido apenas com letras e/ou números, se o CPF não for um CPF válido, se o usuário não tiver no mínimo 3 caracteres e no máximo 12 e a senha precisa ter no mínimo 6 caracteres e no máximo 12, o formulário não é enviado.
 
 ---
 
